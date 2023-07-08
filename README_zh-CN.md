@@ -34,6 +34,7 @@ Oneplus8T-Android13, Linux 4.19.157 (测试过)
 
 ## 鸣谢
 
+- [KernelPatch](https://github.com/bmax121/KernelPatch/): 核心
 - [Magisk](https://github.com/topjohnwu/Magisk): 使用其代码用于解包，重打包 boot.img
 
 ## License

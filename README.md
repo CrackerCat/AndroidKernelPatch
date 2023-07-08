@@ -38,6 +38,7 @@ It is still in the early stages, and many features have not been implemented yet
 
 ## Credits
 
+- [KernelPatch](https://github.com/bmax121/KernelPatch/): The core.
 - [Magisk](https://github.com/topjohnwu/Magisk): Used their code for unpacking and repacking boot.img.
 
 ## License
