@@ -34,12 +34,12 @@ It is still in the early stages, and many features have not been implemented yet
 
 ## More Information
 
-[FAQ](./doc/en/faq.md)
-[Documentation](./doc/en/)
+[FAQ](./doc/en/faq.md)  
+[Documentation](./doc/en/)  
 
 ## Credits
 
-- [KernelPatch](https://github.com/bmax121/KernelPatch/): The core.
+- [KernelPatch](https://github.com/bmax121/KernelPatch/): The core.  
 - [Magisk](https://github.com/topjohnwu/Magisk): Used their code for unpacking and repacking boot.img.
 
 ## License
