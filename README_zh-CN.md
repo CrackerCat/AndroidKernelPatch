@@ -30,6 +30,7 @@ Oneplus8T-Android13, Linux 4.19.157 (测试过)
 
 ## 更多信息
 
+[常见问题](./doc/zh-cn/faq.md)
 [文档](./doc/zh-cn/)
 
 ## 鸣谢

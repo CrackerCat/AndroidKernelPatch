@@ -34,7 +34,8 @@ It is still in the early stages, and many features have not been implemented yet
 
 ## More Information
 
-[Documentation](./doc/zh-cn/)
+[FAQ](./doc/en/faq.md)
+[Documentation](./doc/en/)
 
 ## Credits
 
